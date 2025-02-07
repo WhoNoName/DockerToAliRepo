@@ -9,6 +9,7 @@
 #ghcr.io/open-webui/open-webui:cuda
 #cr2.fit2cloud.com/1panel/maxkb
 #kubesphere/ks-installer:v3.4.1
-openjdk:8u342-jdk
-
+#openjdk:8u342-jdk
+selenium/standalone-chrome:132.0-20250202
+centos:centos8.4.2105
 
