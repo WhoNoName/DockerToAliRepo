@@ -10,6 +10,6 @@
 #cr2.fit2cloud.com/1panel/maxkb
 #kubesphere/ks-installer:v3.4.1
 #openjdk:8u342-jdk
-selenium/standalone-chrome:132.0-20250202
-centos:centos8.4.2105
-
+#selenium/standalone-chrome:132.0-20250202
+#centos:centos8.4.2105
+tomcat:9.0.102-jdk8-corretto
